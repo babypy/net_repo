@@ -1,0 +1,17 @@
+Всего в ветке demo 7 коммитов:
+Merge branch 'buttons' into demo
+dots
+README added
+Merge branch 'boots' into release
+boots
+heat added
+init
+
+У demo удаленного репозитория и master моего репозитория повторяются некоторые коммиты.
+
+В моей ветке нет следующий коммитов:
+Merge branch 'buttons' into demo
+Merge branch 'boots' into release
+
+В demo нет коммита:
+fix readme
